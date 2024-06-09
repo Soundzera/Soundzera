@@ -1,0 +1,113 @@
+body {
+    background-color: rgb(19, 20, 20);
+    padding: 2%;
+}
+
+.text {
+    color: white;
+    font-size: larger;
+    align-items: center;
+    text-align: center;
+    text-decoration: underline;
+    outline-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.messibild {
+    position: absolute;
+    top: 275px;
+    left: 350px;
+}
+
+.ronaldobild {
+    position: absolute;
+    top: 275px;
+    right: 350px;
+}
+
+.psg {
+    position: absolute;
+    top: 500px;
+    right: 825px
+}
+
+.realmadrid {
+    position: absolute;
+    top: 500px;
+    left: 400px
+}
+
+.acmailand {
+    position: absolute;
+    top: 500px;
+    right:400px;
+}
+
+.barcelona {
+    position: absolute;
+    top: 500px;
+    left: 400px
+}
+
+.psg2 {
+    position: absolute;
+    top: 500px;
+    right: 825px
+}
+
+.manchesterunited {
+    position: absolute;
+    top: 500px;
+    right:400px;
+}
+
+.vertrag {
+    position: absolute;
+    top: 300px;
+    right: 825px;
+    font-size: larger;
+    color:rgb(240, 240, 222);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.vertrag {
+    width:250px;
+    border: 5px solid rgb(240, 240, 222);
+    top: 325px;
+    right: 810px;
+}
+
+.arrow {
+    position: absolute;
+    top: 600px;
+    right: 700px;
+}
+
+.box {
+    position: absolute;
+    top: 481px;
+    right: 1100px;
+    color: rgb(180, 180, 180);
+    text-decoration: underline;
+    font-size: larger;
+    outline-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box2 {
+    position: absolute;
+    top: 481px;
+    left: 1100px;
+    color: rgb(180, 180, 180);
+    text-decoration:underline;
+    font-size: larger;
+    outline-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.shoes {
+    position: absolute;
+    top: 300px;
+    right: 700px;
+}
